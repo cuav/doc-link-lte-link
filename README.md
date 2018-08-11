@@ -5,7 +5,6 @@
 ![LTE LINK](/assets/let_link.jpg) 
 ## 概述：
 全新的CUAV LTE-LINK突破传统的传输方式，它利用了先进的4G LTE网络（公网或者专网），将数据和视频流融为一体进行无限距离的传输。CUAV LTE-SYSTEM 将是业内首款量产的普及型UAV 4G LTE系统。它不仅是一个无限数字链路，它是一个先进的无人机通讯系统。它拥有多种先进性
-<img src="/assets/let_link.jpg" width="10px" />  
 ![functional](/assets/functional.jpg)
 ### 无限互联  
 它是下一代行业无人机通讯系统，不仅可以实现4G甚至5G公网通讯，还可以扩展4G LTE专网通讯，从而实现真正的无人机无限互联

@@ -1,6 +1,10 @@
-# 注册CUAV通用账号
+# 登陆CUAV通用账户
 
 ---
 
-第一次使用非攻地面站前，需要注册您的CUAV通用账号，该账户可以在非攻地面站、CUAV\_GS、UAV-HUB等CUAV官方客户端。
+在非攻地面站中登陆CUAV通用账户非常简单，只需要输入您的手机号码/邮箱以及账号密码，点击登陆即可，您也可以勾选自动登录复选框，下次登陆会自动登陆。
+
+![](/assets/feigong_installation/feigong_installation8.png)
+
+
 

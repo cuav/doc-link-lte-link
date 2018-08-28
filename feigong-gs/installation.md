@@ -35,7 +35,7 @@
 
 等待安装完成
 
-![](/assets/feigong_installation/feigong_installation8.jpg)
+![](/assets/feigong_installation/feigong_installation8.png)
 
 安装完成后即可打开运行。
 

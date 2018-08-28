@@ -7,6 +7,26 @@
 请先下载非攻地面站安装包
 
 下载完成后，请打开程序文件，然后双击运行安装程序。
+![](/assets/feigong_installation/feigong_installation.jpg)
+点击下一步
+![](/assets/feigong_installation/feigong_installation2.jpg)
+选择安装目录（一般默认即可），点击下一步
+![](/assets/feigong_installation/feigong_installation3.jpg)
+点击下一步
+![](/assets/feigong_installation/feigong_installation4.jpg)
+选择我接受此许可（选择我不接受许可将退出安装步骤）
+![](/assets/feigong_installation/feigong_installation5.jpg)
+点击下一步
+![](/assets/feigong_installation/feigong_installation6.jpg)
+点击安装
+![](/assets/feigong_installation/feigong_installation7.jpg)
+等待安装完成。
+
+
+
+
+
+
 
 
 

@@ -20,7 +20,9 @@
 ![](/assets/feigong_installation/feigong_installation6.jpg)
 点击安装
 ![](/assets/feigong_installation/feigong_installation7.jpg)
-等待安装完成。
+等待安装完成
+![](/assets/feigong_installation/feigong_installation8.jpg)
+安装完成后即可打开运行。
 
 
 

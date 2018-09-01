@@ -9,7 +9,7 @@
   * [登录账号](feigong-gs/login-account.md)
   * [绑定与解绑](feigong-gs/binding-and-unbinding.md)
   * [个人中心](feigong-gs/personal-center.md)
-  * [应用设置](feigong-gs/application-settings)
+  * [应用设置](feigong-gs/application-settings.md)
 * [CUAV GS手机地面站](cuav-gs.md)
 * [UAV HUB管控平台](uav-hub.md)
 

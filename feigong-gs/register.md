@@ -9,16 +9,11 @@
 ![](/assets/feigong_register/feigong_login.png)  
 点击“立即注册”，弹出注册通用账户界面，您可以选择使用手机号/邮箱注册。  
 ![](/assets/feigong_register/feigong_login2.png)  
-填写好相关信息后，点击“注册并登陆”.  
-注册成功后，将自动登陆地面站。  
-![](/assets/feigong_register/feigong_login3.png)
+填写好相关信息后，点击“注册并登录”.  
+注册成功后，将自动登录地面站。  
+![](/assets/feigong_register/feigong_login3.png)  
 登陆后点击右上方“请选择设备”区域会弹出该账户绑定的所有设备（设备在线时设备名称前的标识为绿色，离线为红色）。![](/assets/feigong_register/feigong_login4.png)
 
-当设备在线时，点击设备名称，非攻地面站将自动连接该设备。
+当设备在线时，点击设备名称，非攻地面站将自动连接该设备。  
 ![](/assets/feigong_register/feigong_login5.png)
-
-
-
-
-
 

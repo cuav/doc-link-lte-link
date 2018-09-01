@@ -11,7 +11,7 @@
   * [窗口功能介绍](feigong-gs/Interface-function.md)
     * [飞行数据](feigong-gs/Interface-function/flight-data.md)
     * [飞行计划](feigong-gs/Interface-function/flight-plan.md)
-    * [飞行计划](feigong-gs/Interface-function/parameter-settings.md)
+    * [参数设置](feigong-gs/Interface-function/parameter-settings.md)
   * [个人中心](feigong-gs/personal-center.md)
   * [应用设置](feigong-gs/application-settings.md)
 * [CUAV GS手机地面站](cuav-gs.md)

@@ -12,6 +12,11 @@
 ![binding](/assets/binding/lte_binding.jpg)
 
 获取到序列号后，请打开非攻地面站并登陆。
+![binding2](/assets/binding/lte_binding2.png)
+点击左上角人型图标，选择我的设备。
+
+
+
 
 
 

@@ -7,6 +7,7 @@
   * [安装地面站](feigong-gs/installation.md)
   * [注册账号](feigong-gs/register.md)
   * [登录账号](feigong-gs/login-account.md)
+  * [窗口功能介绍](feigong-gs/Interface-function.md)
   * [绑定与解绑](feigong-gs/binding-and-unbinding.md)
   * [个人中心](feigong-gs/personal-center.md)
   * [应用设置](feigong-gs/application-settings.md)

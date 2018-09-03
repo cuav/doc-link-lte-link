@@ -4,7 +4,7 @@
 
 非攻地面站是CUAV针对LTE LINK开发的一款功能强大的PC端地面站；其适用于windows7以上的电脑。
 
-请先下载非攻地面站安装包
+请先下载[非攻地面站安装包](http://doc.cuav.net/link/lte-link)
 
 下载完成后，请打开程序文件，然后双击运行安装程序。  
 ![](/assets/feigong_installation/feigong_installation.jpg)

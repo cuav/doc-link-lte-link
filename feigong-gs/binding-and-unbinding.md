@@ -15,7 +15,7 @@
 ![binding2](/assets/binding/lte_binding2.png)
 点击左上角人型图标，选择我的设备。
 ![binding2](/assets/binding/lte_binding3.png)
-填入设备序列号，点击绑定，LTE LINK显示屏显示下方图示，请按一下Bind键确认绑定。
+填入设备序列号，点击绑定，LTE LINK显示屏显示下方图示，请在15s内按一下Bind键确认绑定。
 ![binding2](/assets/binding/lte_binding5.jpg)
 绑定成功
 ![binding2](/assets/binding/lte_binding6.jpg)

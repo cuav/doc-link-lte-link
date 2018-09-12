@@ -20,7 +20,6 @@
 绑定成功
 ![binding2](/assets/binding/lte_binding6.jpg)
 
-
 ###解绑设备
 ![binding2](/assets/binding/lte_binding3.png)
 点击解绑即可

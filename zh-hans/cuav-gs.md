@@ -6,7 +6,7 @@ CUAV-GS APP是CUAV针对LTE Link开发的安卓客户端，它具有航线规划
 
 ### 客户端下载
 
-请点击\[下载\]\(http://fw.cuav.net/apk/CUAV\_GS.apk\)
+请点击[下载](http://fw.cuav.net/apk/CUAV_GS.apk).
 
 
 

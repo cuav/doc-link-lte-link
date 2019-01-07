@@ -1,7 +1,7 @@
 # Table of content
 
 * [概述](README.md)
-* [技术参数](technical—parameter.md)
+* [技术参数](technical-parameter.md)
 * [硬件安装](hardware-installation.md)
 * [非攻地面站](feigong-gs.md)
   * [安装地面站](feigong-gs/installation.md)

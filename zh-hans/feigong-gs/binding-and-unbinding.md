@@ -14,14 +14,14 @@
 获取到序列号后，请打开非攻地面站并登陆。
 ![binding2](../../assets/binding/lte_binding2.png)
 点击左上角人型图标，选择我的设备。
-![binding2](../../assets/binding/lte_binding3.png)
+![binding3](../../assets/binding/lte_binding3.png)
 填入设备序列号，点击绑定，LTE LINK显示屏显示下方图示，请在15s内按一下Bind键确认绑定。
-![binding2](../../assets/binding/lte_binding5.jpg)
+![binding5](../../assets/binding/lte_binding5.jpg)
 绑定成功
-![binding2](../../assets/binding/lte_binding6.jpg)
+![binding6](../../assets/binding/lte_binding6.jpg)
 
 ###解绑设备
-![binding2](../../assets/binding/lte_binding3.png)
+![binding3](../../assets/binding/lte_binding3.png)
 点击解绑即可
 
 

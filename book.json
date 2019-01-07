@@ -3,6 +3,9 @@
   "description": "LTE-LINK数字高清链路",
   "language": "zh-hans",
   "plugins": [
+    "youtube",
+    "language-picker",
+    "richquotes",
     "-sharing",
     "-highlight",
     "-livereload",

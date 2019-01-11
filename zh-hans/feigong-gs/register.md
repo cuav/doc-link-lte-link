@@ -8,7 +8,7 @@
 首先请打开非攻地面站  
 ![feigong_login](../../assets/feigong_register/feigong_login.png)  
 点击“立即注册”，弹出注册通用账户界面，您可以选择使用手机号/邮箱注册。  
-![feigong_login2](../assets/feigong_register/feigong_login2.png)  
+![feigong_login2](../../assets/feigong_register/feigong_login2.png)  
 填写好相关信息后，点击“注册并登录”.  
 注册成功后，将自动登录地面站。  
 ![feigong_login3](../../assets/feigong_register/feigong_login3.png)  

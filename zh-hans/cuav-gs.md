@@ -29,6 +29,11 @@ CUAV-GS APP是CUAV针对LTE Link开发的安卓客户端，它具有航线规划
 ![gs1](../assets/cuav_gs/gs1.png)  
 ![gs2](../assets/cuav_gs/gs2.png)  
 按照提示在15秒内短按一次Bind键,完成绑定。
-###
+###解绑设备/设备重名命
+![gs3](../assets/cuav_gs/gs3.png)  
+![gs4](../assets/cuav_gs/gs4.png)  
+![gs5](../assets/cuav_gs/gs5.png)  
+
+
 
 

@@ -15,7 +15,7 @@
 ### Micro SD卡（可选）
 
 LTE LINK最大支持64G SD卡（FAT32格式），SD主要用于存储视频。请将SD卡插入LTE LINK的Micro  SD卡槽中。  
-![sd\_card](../../assets/hardware_installation/sd_card.jpg)
+![sd\_card](../assets/hardware_installation/sd_card.jpg)
 
 ---
 

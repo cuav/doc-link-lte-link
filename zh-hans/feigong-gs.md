@@ -6,7 +6,7 @@
 其具有丰富的功能：
 ![feigong_gs](/assets/feigong_gcs/feigong_gs.jpg)
 ![feigong_gs2](/assets/feigong_gcs/feigong_gs2.jpg)
-![](../assets/feigong_gcs/feigong_gs4.jpg)
+![feigong_gs4](/assets/feigong_gcs/feigong_gs4.jpg)
 ![](../assets/feigong_gcs/feigong_gs6.jpg)
 ![](../assets/feigong_gcs/feigong_gs7.jpg)
 

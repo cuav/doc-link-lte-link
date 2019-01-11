@@ -48,7 +48,9 @@ CUAV-GS APP是CUAV针对LTE Link开发的安卓客户端，它具有航线规划
 ###视频教程无法观看？
 
 [设备绑定和解绑](https://v.youku.com/v_show/id_XNDAwNzU4MjM4NA==.html?spm=a2hzp.8253869.0.0)
+
 [进入设备和飞行界面介绍](http://video.tudou.com/v/XNDAwNzYzNDk0MA==.html?spm=a2hzp.8244740.0.0)
+
 [航线规划](https://v.youku.com/v_show/id_XNDAwNzY1MTcyMA==.html?spm=a2h9p.12366999.app.5~5!2~5~5!2~5~5!2~5!3~5~5~5~5~5~21~22~TR~TD!2~5~5!2~H4~A)
 
 

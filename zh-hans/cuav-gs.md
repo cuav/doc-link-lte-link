@@ -30,8 +30,8 @@ CUAV-GS APP是CUAV针对LTE Link开发的安卓客户端，它具有航线规划
 ![gs2](../assets/cuav_gs/gs2.png)  
 按照提示在15秒内短按一次Bind键,完成绑定。
 ###解绑设备/设备重名命
-![gs3](../assets/cuav_gs/gs3.png)  
-![gs4](../assets/cuav_gs/gs4.png)  
+![gs3](../assets/cuav_gs/gs3.png)     ![gs4](../assets/cuav_gs/gs4.png)  
+点击左上角图标》我的设备》选择设备并向左滑动屏幕，弹出解绑/重命名按键。
 ![gs5](../assets/cuav_gs/gs5.png)  
 
 

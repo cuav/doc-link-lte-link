@@ -7,7 +7,7 @@
 ![functional](../assets/functional.jpg)
 ### 无限互联  
 它是下一代行业无人机通讯系统，不仅可以实现4G甚至5G公网通讯，还可以扩展4G LTE专网通讯，从而实现真正的无人机无限互联
-![interconnection](/assets/unlimited_interconnection.jpg) 
+![interconnection](../assets/unlimited_interconnection.jpg) 
 
 依靠先进的4G LTE/5G网络和互联网，有手机信号的地方就能互联，不受地区、地域甚至国度限制 ,几乎不存在同频干扰，障碍物限制
 
@@ -23,7 +23,7 @@
 ### 安全可靠
 LTE-LINK、客户端、服务器均采用TLS 1.3 AES-256双向 对称和非对称 混合加密方式
 保护你的无人机数据安全和可靠传输，杜绝数据被篡改、窃听和中间人攻击。
-![safe](/assets/safe_cloud_lock.jpg)
+![safe](../assets/safe_cloud_lock.jpg)
 
 ### 视频录制
 
@@ -33,7 +33,7 @@ LTE-LINK、客户端、服务器均采用TLS 1.3 AES-256双向 对称和非对�
 目前CUAV已经开发了安卓、WINDOWS、WEB客户端，满足不同应用需求的客户选择。
 
 ###完善的服务体系，让您售后无忧
-![service](/assets/service.jpg)
+![service](../assets/service.jpg)
 
 
 

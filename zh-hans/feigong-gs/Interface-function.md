@@ -4,7 +4,7 @@
 
 为了帮助您快速熟练操作非攻地面站，下方将介绍非攻地面站的主要窗口功能。
 
-##### ![Interface-function](/assets/interface-function/interface-function2.png)
+##### ![Interface-function](../assets/interface-function/interface-function2.png)
 
 1. 界面区：包含飞行数据、飞行计划、参数设置三个主界面。
 2. 账号、设备及应用管理区：包含个人中心、应用设置、我的设备、关于应用、退出账号等。

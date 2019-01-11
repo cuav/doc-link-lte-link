@@ -21,7 +21,7 @@ CUAV-GS APP是CUAV针对LTE Link开发的安卓客户端，它具有航线规划
 点击首页登录按钮，输入账号和密码登录即可。
 ###绑定设备
 绑定绑号需先登录账号，然后启动LET-LINK，等待系统启动完成后，长按Bind直至显示屏显示二维码  
-![binding](../../assets/binding/lte_binding.jpg)
+![binding](/assets/binding/lte_binding.jpg)
 点击app上的扫一扫，扫描显示屏上的二维码。
 ![](../../assets/gs1.png)
 

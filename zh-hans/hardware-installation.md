@@ -15,23 +15,23 @@
 ### Micro SD卡（可选）
 
 LTE LINK最大支持64G SD卡（FAT32格式），SD主要用于存储视频。请将SD卡插入LTE LINK的Micro  SD卡槽中。  
-![sd\_card](/assets/hardware_installation/sd_card.jpg)
+![sd\_card](../assets/hardware_installation/sd_card.jpg)
 
 ---
 
 ### 电源
 
-LTE-LINK内置有降压稳压模块，支持10-50v的电压输入，你可以直接将电源线接入3~12s电池给LTE-LINK供电。![power](/assets/hardware_installation/lte_link_power.jpg)
+LTE-LINK内置有降压稳压模块，支持10-50v的电压输入，你可以直接将电源线接入3~12s电池给LTE-LINK供电。![power](../assets/hardware_installation/lte_link_power.jpg)
 
 ---
 
 ### HDMI视频线
 
-![hdmi](/assets/hardware_installation/hdmi.jpg)
+![hdmi](../assets/hardware_installation/hdmi.jpg)
 
 ---
 
 ### LTE LINK与飞控连接
 
-请将数据线插入LTE LINK DBUS接口，另外一端接入飞控TELEM1/RADIO接口（串口波特率为57600）。![dbus](/assets/hardware_installation/dbus.jpg)
+请将数据线插入LTE LINK DBUS接口，另外一端接入飞控TELEM1/RADIO接口（串口波特率为57600）。![dbus](../assets/hardware_installation/dbus.jpg)
 

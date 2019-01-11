@@ -27,7 +27,7 @@ LTE-LINK内置有降压稳压模块，支持10-50v的电压输入，你可以直
 
 ### HDMI视频线
 
-![hdmi](../../assets/hardware_installation/hdmi.jpg)
+![hdmi](../assets/hardware_installation/hdmi.jpg)
 
 ---
 

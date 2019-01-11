@@ -21,7 +21,7 @@ LTE LINK最大支持64G SD卡（FAT32格式），SD主要用于存储视频。�
 
 ### 电源
 
-LTE-LINK内置有降压稳压模块，支持10-50v的电压输入，你可以直接将电源线接入3~12s电池给LTE-LINK供电。![power](../../assets/hardware_installation/lte_link_power.jpg)
+LTE-LINK内置有降压稳压模块，支持10-50v的电压输入，你可以直接将电源线接入3~12s电池给LTE-LINK供电。![power](../assets/hardware_installation/lte_link_power.jpg)
 
 ---
 

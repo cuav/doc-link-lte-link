@@ -40,7 +40,7 @@ youtube教程：
 {%youtube%}https://www.youtube.com/watch?v=lU0dKReBmNM{%endyoutube%}
 ###视频教程无法观看？
 
-[解绑与解绑](https://v.youku.com/v_show/id_XNDAwNzU4MjM4NA==.html?spm=a2hzp.8253869.0.0）
+[解绑与解绑）（https://v.youku.com/v_show/id_XNDAwNzU4MjM4NA==.html?spm=a2hzp.8253869.0.0）
 [进入设备及飞行界面介绍](
 
 

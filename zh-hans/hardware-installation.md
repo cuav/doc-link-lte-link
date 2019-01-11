@@ -35,3 +35,5 @@ LTE-LINK内置有降压稳压模块，支持10-50v的电压输入，你可以直
 
 请将数据线插入LTE LINK DBUS接口，另外一端接入飞控TELEM1/RADIO接口（串口波特率为57600）。![dbus](../../assets/hardware_installation/dbus.jpg)
 
+
+

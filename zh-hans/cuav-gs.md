@@ -35,10 +35,10 @@ CUAV-GS APP是CUAV针对LTE Link开发的安卓客户端，它具有航线规划
 点击左上角图标》我的设备》选择设备并向左滑动屏幕，弹出解绑/重命名按键。  
 ![gs5](../assets/cuav_gs/gs5.png)
 {%youtube%}https://www.youtube.com/watch?v=P-A8pIhtF_U{%endyoutube%}
-
 ####进入设备及飞行界面介绍
 ![gs6](../assets/cuav_gs/gs6.png)
 选择设备》点击连接》点击进入设备
+{%youtube%}https://www.youtube.com/watch?v=lU0dKReBmNM{%endyoutube%}
 
 
 

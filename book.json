@@ -1,6 +1,6 @@
 {
-  "title": "{书名}",
-  "description": "{描述}",
+  "title": "LTE-LINK",
+  "description": "LTE LINK Docs",
   "language": "zh-hans",
   "plugins": [
     "youtube",

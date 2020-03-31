@@ -20,6 +20,3 @@
 | 支持网络类型 | LTE\(FDD\)  LTE\(TDD\) EDGE/GPRS/GSM |
 | 支持相机类型 | HDMI或者SDI 高清（根据型号而定） |
 | 扩展接口 |  RJ45 千兆网口 X1                                                                        TTL 串口  X3                                                                               TYPE-C USB X1                                                                             4G天线扩展   X2                                                                           HDMI IN or  SDI IN\(根据硬件型号而定\) |
-
-
-
